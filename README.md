@@ -1,5 +1,5 @@
-# hangman-cli #
-##GAME INFO ##
+# Hangman-CLI #
+GAME INFO
 - - - -
 This node command line application prompts user to guess a randomly generated word.
 
