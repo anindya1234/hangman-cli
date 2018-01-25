@@ -1,16 +1,17 @@
-# hangman-cli
-GAME
+# hangman-cli #
+##GAME INFO ##
+- - - -
 This node command line application prompts user to guess a randomly generated word.
 
-#Tech Used
-Node JS
-Javascript
-NPM
-Inquirer
+* Tech Used
+    * Node JS
+    * Javascript
+    * NPM
+    * Inquirer
 
-#How to Use
-Clone this repo
-Then in command line type: npm install
-Type: cd Hangman
-Type: node main.js
-Follow prompts
+* How to Use
+    * Clone this repo
+    * Then in command line type: npm install
+    * Type: cd Hangman
+    * Type: node main.js
+    * Follow prompts
